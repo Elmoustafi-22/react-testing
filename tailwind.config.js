@@ -14,7 +14,8 @@ export default {
         montserrat: ["Montserrat"],
         opensans: ["Open Sans"],
         raleway: ["Raleway"],
-        worksans: ["Work Sans"]
+        worksans: ["Work Sans"],
+        lobster: ["Lobster"]
       }
     },
   },
